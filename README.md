@@ -23,7 +23,6 @@
 	<!-- Paypal -->
 	<a href="https://paypal.me/abranhe/10"><img src="https://cdn.abraham.gq/badges/paypal.svg" /></a>
 </p>
-</p>
 
 # Install
 
@@ -67,16 +66,16 @@ print (bible_male_names.all())
 >Return over [2000+](https://github.com/abranhe/bible-male-names/blob/master/bible-male-names.json) male names from The Bible.
 
 
+# Related
+
+- [bible-male-names](https://github.com/abranhe/bible-male-names): same thing but in JavaScript
+- [bible-female-names](https://github.com/abranhe/bible-female-names):  📖  get female names from The Bible in JavaScript
+
 # Team
 
 |[![Carlos Abraham Logo](https://avatars3.githubusercontent.com/u/21347264?s=50&v=4)](https://19cah.com)|
 | :-: |
 | [Carlos Abraham](https://github.com/abranhe) |
-
-# Related
-
-- [bible-male-names](https://github.com/abranhe/bible-male-names): same thing but in **JS**
-- [bible-female-names](https://github.com/abranhe/bible-female-names):  📖  get female names from The Bible in JS
 
 
 # License
