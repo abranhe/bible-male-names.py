@@ -1,10 +1,10 @@
 
 <p align="center">
-	<a href="https://pypi.org/project/bible_male_names"><img src="https://cdn.abraham.gq/projects/bible-male-names/abraham.png" width="30%" height="30%"></a>
+	<a href="https://pypi.org/project/bible-male-names"><img src="https://cdn.abraham.gq/projects/bible-male-names/abraham.png" width="30%" height="30%"></a>
 	<br>
 	<br>
 	<br>
-	<a href="https://pypi.org/project/bible_male_names">bible_male_names</a>: get male names from <a href="https://www.google.com/search?q=The+Bible">The Bible</a>
+	<a href="https://pypi.org/project/bible-male-names">bible-male-names</a>: get male names from <a href="https://www.google.com/search?q=The+Bible">The Bible</a>
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@
 # Install
 
 ```
-$ pip install bible_male_names
+$ pip install bible-male-names
 ```
 
 Names from [biblegateway.com](https://www.biblegateway.com/resources/all-men-bible/Alphabetical-Order-All-Men)
@@ -68,6 +68,7 @@ print (bible_male_names.all())
 
 # Related
 
+- [bible-female-names.py](https://github.com/abranhe/bible-female-names.py):  📖  get female names from The Bible
 - [bible-male-names](https://github.com/abranhe/bible-male-names): same thing but in JavaScript
 - [bible-female-names](https://github.com/abranhe/bible-female-names):  📖  get female names from The Bible in JavaScript
 
